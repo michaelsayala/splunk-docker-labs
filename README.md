@@ -14,7 +14,7 @@ These labs are built for **hands-on learning, certification preparation, and arc
 
 This repository contains multiple modular Splunk environments:
 
-### 1. Indexer Cluster Lab
+### 1. [Indexer Cluster Lab](https://github.com/michaelsayala/splunk-idx-docker-lab)
 Simulates a fully functional **Splunk Indexer Cluster** with Cluster Manager and multiple indexers.
 
 ### 2. Search Head Cluster (SHC) Lab
